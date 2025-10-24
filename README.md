@@ -14,7 +14,7 @@ Key Features:
 
 • Machine learning models to predict sales (e.g., Linear Regression, Random Forest)
 
-Evaluation of model accuracy using appropriate metrics
+• Evaluation of model accuracy using appropriate metrics
 
 Tools & Technologies Used:
 
