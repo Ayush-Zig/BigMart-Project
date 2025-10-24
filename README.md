@@ -4,31 +4,31 @@ Big Mart Sales Prediction Project is a machine learning project aimed at predict
 
 Key Features:
 
-Data cleaning and preprocessing
+• Data cleaning and preprocessing
 
-Handling missing values and zero entries
+• Handling missing values and zero entries
 
-Feature engineering for better model performance
+• Feature engineering for better model performance
 
-Exploratory data analysis (EDA) for insights
+• Exploratory data analysis (EDA) for insights
 
-Machine learning models to predict sales (e.g., Linear Regression, Random Forest)
+• Machine learning models to predict sales (e.g., Linear Regression, Random Forest)
 
 Evaluation of model accuracy using appropriate metrics
 
 Tools & Technologies Used:
 
-Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
+• Python (pandas, numpy, scikit-learn, matplotlib, seaborn)
 
-Jupyter Notebook for experimentation
+• Jupyter Notebook for experimentation
 
-Git & GitHub for version control
+• Git & GitHub for version control
 
 Model Performance (R² Scores for XGBoost Regressor):
 
-Train R²: 0.86
+• Train R²: 0.86
 
-Test R²: 0.52
+• Test R²: 0.52
 
 Objective:
 To accurately predict product sales at Big Mart outlets to assist in inventory management, optimize stock levels, and improve overall business efficiency.
