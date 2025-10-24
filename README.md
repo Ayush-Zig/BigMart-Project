@@ -24,6 +24,12 @@ Jupyter Notebook for experimentation
 
 Git & GitHub for version control
 
+Model Performance (R² Scores for XGBoost Regressor):
+
+Train R²: 0.86
+
+Test R²: 0.52
+
 Objective:
 To accurately predict product sales at Big Mart outlets to assist in inventory management, optimize stock levels, and improve overall business efficiency.
 
